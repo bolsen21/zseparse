@@ -1,0 +1,6 @@
+dashboard/
+coverage/
+.idea/
+.iml
+.npmrc
+.npm/
